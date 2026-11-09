@@ -1,0 +1,17 @@
+# dependências
+/node_modules
+
+# build do Next.js
+/.next/
+/out/
+
+# variáveis de ambiente locais
+.env*.local
+
+# arquivos de sistema / logs
+.DS_Store
+npm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
+/trabalho-next/
+/trabalho-next/

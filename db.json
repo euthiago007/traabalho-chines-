@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "nome": "Thiago Duarte",
+      "email": "thiago07@gmail.com",
+      "cpf": "529.982.247-25",
+      "telefone": "(44) 99999-0099",
+      "dataNascimento": "12/09/2006",
+      "senha": "temaosangue99",
+      "cep": "87565-000",
+      "logradouro": "Praça da Grande Catedral",
+      "numero": "99",
+      "complemento": "Ao pé da escadaria da Grande Catedral.",
+      "bairro": "Distrito da Catedral",
+      "cidade": "Yharnam",
+      "estado": "PR",
+      "id": 1
+    }
+  ]
+}
